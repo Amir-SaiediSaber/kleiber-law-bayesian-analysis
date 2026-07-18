@@ -37,7 +37,7 @@ Model comparison also favored the group-dependent model: DIC decreased from 570.
 - [`data/animaltraits_bmr.csv`](data/animaltraits_bmr.csv): analysis-ready subset used by the notebook
 - [`scripts/prepare_data.R`](scripts/prepare_data.R): reproducible filtering script for the original AnimalTraits file
 - [`assets/`](assets): selected figures for quick review
-- [`LINKEDIN.md`](LINKEDIN.md): ready-to-copy LinkedIn project entry
+
 
 ## Methods
 
