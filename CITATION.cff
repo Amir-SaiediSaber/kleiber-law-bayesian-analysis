@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this project, please cite it using the metadata below."
+title: "Bayesian Analysis of Kleiber's Law"
+type: software
+authors:
+  - family-names: "Saiedi Saber"
+    given-names: "Amirmohammad"
+date-released: 2026-07-18
+url: "https://github.com/Amir-SaiediSaber/kleiber-law-bayesian-analysis"
+repository-code: "https://github.com/Amir-SaiediSaber/kleiber-law-bayesian-analysis"
+keywords:
+  - Bayesian inference
+  - Gibbs sampling
+  - allometric scaling
+  - Kleiber's law
+  - metabolic rate
+  - R
+  - JAGS
